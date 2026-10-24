@@ -1,0 +1,13 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to 'C:\Users\kdr56\Downloads\meidi\meidi\meidi-F_Cu.gbr'.
+Plotted to 'C:\Users\kdr56\Downloads\meidi\meidi\meidi-B_Cu.gbr'.
+Plotted to 'C:\Users\kdr56\Downloads\meidi\meidi\meidi-F_Paste.gbr'.
+Plotted to 'C:\Users\kdr56\Downloads\meidi\meidi\meidi-B_Paste.gbr'.
+Plotted to 'C:\Users\kdr56\Downloads\meidi\meidi\meidi-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\kdr56\Downloads\meidi\meidi\meidi-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\kdr56\Downloads\meidi\meidi\meidi-F_Mask.gbr'.
+Plotted to 'C:\Users\kdr56\Downloads\meidi\meidi\meidi-B_Mask.gbr'.
+Plotted to 'C:\Users\kdr56\Downloads\meidi\meidi\meidi-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\kdr56\Downloads\meidi\meidi\meidi-job.gbrjob'.
+Info: Done.
