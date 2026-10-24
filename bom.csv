@@ -1,0 +1,12 @@
+﻿Item,Description,Qty,Unit Price (USD),Line Total (USD),Link
+1,"Waveshare ESP32-S3-Zero, main microcontroller",1,6.06,6.06,https://robocraze.com/products/waveshare-esp32-s3-zero-development-board-240mhz
+2,EC11 15 mm rotary encoder module with push switch,1,0.70,0.70,https://robocraze.com/collections/sensors?page=21
+3,Kailh Choc low-profile push-button switches,I couldn't find these but I have these,,,
+4,"Bourns 10k slide potentiometer, 45 mm travel, 15 mm shaft, pack of 2",1 pack,18.10,18.10,https://www.amazon.in/BOURNS-Potentiometer-Travel-Single-Linear/dp/B079ZP3LS5
+5,10k rotary potentiometer with knob,1,0.36,0.36,https://robocraze.com/products/10k-pot-potentiometer-with-knob
+6,Capacitive touch pads — exposed copper on PCB,7,0.00,0.00,"PCB feature, no separate part"
+7,"1×40 2.54 mm female header strip, for ESP32-S3-Zero mounting",1,0.13,0.13,https://robocraze.com/products/40x1-female-berg-strip
+8,"Optional: 6×6×8 mm tactile buttons, 10-pack, if not using Choc switches",1 pack,0.21,0.21,https://robocraze.com/collections/push-buttons
+9,"JLCPCB 2-layer PCB, up to 100×100 mm, 5 pcs",1 order,From 2.00,From 2.00 + shipping,https://jlcpcb.com/ads/pcb-prototype
+,Known-parts subtotal,,,25.34,
+,Grand total,,,27.34 + PCB shipping + unresolved Choc switches,

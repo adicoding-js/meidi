@@ -33,8 +33,6 @@ Schematic and PCB layout are done in KiCad, board hasn't been fabbed or ordered 
 
 ## Bill of materials (BOM)
 
-### Bill of materials (BOM)
-
 | Item | Description | Qty | Unit Price (USD) | Line Total (USD) | Link |
 |------|-------------|-----|------------------|------------------|------|
 | 1 | Waveshare ESP32-S3-Zero, main microcontroller | 1 | $6.06 | $6.06 | [Robocraze](https://robocraze.com/products/waveshare-esp32-s3-zero-development-board-240mhz) |
