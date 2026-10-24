@@ -4,6 +4,9 @@
 
 A custom USB MIDI controller built from scratch following Kai's MIDI Keypad tutorial. No stock firmware, no base project to extend, the tutorial hands you a KiCad library and component options and says figure out your own layout, so this is my own hardware config and (once I get to it) my own firmware mapping it to MIDI.
 
+![Schematic image](image-2.png)
+
+
 ## What it is
 
 7 capacitive touch keys mapped to a scale off a root note, plus a rotary encoder for octave shifting, two slide potentiometers and a rotary potentiometer for CC control (mod wheel, volume, filter cutoff), and 3 push buttons rounding out the control surface. Everything runs off a Waveshare ESP32-S3-Zero, through-hole and SMD components on a single PCB.
