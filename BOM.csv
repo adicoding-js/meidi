@@ -1,0 +1,11 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+1,1,Robocraze,$6.06,$6.06,https://robocraze.com/products/waveshare-esp32-s3-zero-development-board-240mhz
+2,1,Robocraze,$0.70,$0.70,https://robocraze.com/collections/sensors?page=21
+3,1,,$0.00,$0.00,
+4,1,Amazon,$18.10,$18.10,https://www.amazon.in/BOURNS-Potentiometer-Travel-Single-Linear/dp/B079ZP3LS5
+5,1,Robocraze,$0.36,$0.36,https://robocraze.com/products/10k-pot-potentiometer-with-knob
+6,7,,$0.00,$0.00,
+7,1,Robocraze,$0.13,$0.13,https://robocraze.com/products/40x1-female-berg-strip
+8,1,Robocraze,$0.21,$0.21,https://robocraze.com/collections/push-buttons
+9,1,JLCPCB,$0.00,$0.00,https://jlcpcb.com/ads/pcb-prototype
+Estimated total shipping,1,,,$0.00,
